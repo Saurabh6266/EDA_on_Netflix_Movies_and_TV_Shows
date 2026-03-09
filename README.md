@@ -125,13 +125,12 @@ Through this project I practiced:
 ---
 
 ## 📂 Project Structure
-''''
+
 EDA_on_Netflix_Movies_and_TV_Shows
 │
 ├── eda_netflix.ipynb
 ├── netflix_titles.csv
 └── README.md
-''''
 
 ---
 
